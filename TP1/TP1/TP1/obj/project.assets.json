@@ -13156,11 +13156,11 @@
       "hideWarningsAndErrors": true
     },
     "restore": {
-      "projectUniqueName": "C:\\wamp64\\www\\GraphQL\\TP1\\TP1\\TP1\\TP1.csproj",
+      "projectUniqueName": "C:\\wamp64\\www\\GraphQL\\GraphqlTp1\\TP1\\TP1\\TP1\\TP1.csproj",
       "projectName": "TP1",
-      "projectPath": "C:\\wamp64\\www\\GraphQL\\TP1\\TP1\\TP1\\TP1.csproj",
+      "projectPath": "C:\\wamp64\\www\\GraphQL\\GraphqlTp1\\TP1\\TP1\\TP1\\TP1.csproj",
       "packagesPath": "C:\\Users\\Yadeo\\.nuget\\packages\\",
-      "outputPath": "C:\\wamp64\\www\\GraphQL\\TP1\\TP1\\TP1\\obj\\",
+      "outputPath": "C:\\wamp64\\www\\GraphQL\\GraphqlTp1\\TP1\\TP1\\TP1\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
