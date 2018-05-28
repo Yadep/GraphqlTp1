@@ -1,0 +1,19 @@
+﻿@{
+    ViewData["Title"] = "About";
+}
+<h2>@ViewData["Title"]</h2>
+<h3>@ViewData["Message"]</h3>
+
+<p>Use this area to provide additional information.</p>
+
+@*//<button id="bouton1" asp-area="" asp-controller="Pokemon" asp-action="Index"> Click me !</button>*@
+
+<a class="btn btn-default" asp-controller="Pokemon" asp-action="Index">
+    click me
+</a>
+
+<script>
+    //$("#bouton1").click(function(){
+    //    alert('test');    
+    //})
+</script>

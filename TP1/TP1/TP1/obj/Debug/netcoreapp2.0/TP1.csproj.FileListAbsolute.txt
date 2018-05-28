@@ -1,0 +1,11 @@
+C:\wamp64\www\GraphQL\TP1\TP1\TP1\bin\Debug\netcoreapp2.0\TP1.deps.json
+C:\wamp64\www\GraphQL\TP1\TP1\TP1\bin\Debug\netcoreapp2.0\TP1.runtimeconfig.json
+C:\wamp64\www\GraphQL\TP1\TP1\TP1\bin\Debug\netcoreapp2.0\TP1.runtimeconfig.dev.json
+C:\wamp64\www\GraphQL\TP1\TP1\TP1\bin\Debug\netcoreapp2.0\TP1.dll
+C:\wamp64\www\GraphQL\TP1\TP1\TP1\bin\Debug\netcoreapp2.0\TP1.pdb
+C:\wamp64\www\GraphQL\TP1\TP1\TP1\obj\Debug\netcoreapp2.0\TP1.csprojResolveAssemblyReference.cache
+C:\wamp64\www\GraphQL\TP1\TP1\TP1\obj\Debug\netcoreapp2.0\TP1.csproj.CoreCompileInputs.cache
+C:\wamp64\www\GraphQL\TP1\TP1\TP1\obj\Debug\netcoreapp2.0\TP1.AssemblyInfoInputs.cache
+C:\wamp64\www\GraphQL\TP1\TP1\TP1\obj\Debug\netcoreapp2.0\TP1.AssemblyInfo.cs
+C:\wamp64\www\GraphQL\TP1\TP1\TP1\obj\Debug\netcoreapp2.0\TP1.dll
+C:\wamp64\www\GraphQL\TP1\TP1\TP1\obj\Debug\netcoreapp2.0\TP1.pdb
